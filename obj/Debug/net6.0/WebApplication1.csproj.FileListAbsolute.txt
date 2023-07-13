@@ -30,3 +30,13 @@ C:\Users\matec\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\ref
 C:\Users\matec\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb
 C:\Users\matec\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
 C:\Users\matec\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\ref\WebApplication1.dll
+C:\Users\matec\Source\Repos\Desafio1Para2\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\matec\Source\Repos\Desafio1Para2\WebApplication1\obj\Debug\net6.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matec\Source\Repos\Desafio1Para2\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\matec\Source\Repos\Desafio1Para2\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfo.cs
+C:\Users\matec\Source\Repos\Desafio1Para2\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\matec\Source\Repos\Desafio1Para2\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\matec\Source\Repos\Desafio1Para2\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\matec\Source\Repos\Desafio1Para2\WebApplication1\obj\Debug\net6.0\WebApplication1.dll
+C:\Users\matec\Source\Repos\Desafio1Para2\WebApplication1\obj\Debug\net6.0\refint\WebApplication1.dll
+C:\Users\matec\Source\Repos\Desafio1Para2\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb

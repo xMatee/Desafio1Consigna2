@@ -1,11 +1,20 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Mvc;
+using Models;
 
 namespace WebApplication1.Controllers
 {
     [ApiController]
-    [Route("controlador")]
-    public class Controlador : ControllerBase
+    [Route("[controller]")]
+    public class ControladorController : ControllerBase
     {
+
+        private readonly PersonasContext _context;
+        public ControladorController(PersonasContext context)
+        {
+            _context = context;
+        }
+
         private static readonly string[] nombres = new[]
         {
             "pepe", "jacobo", "ruperta"
@@ -95,15 +104,6 @@ namespace WebApplication1.Controllers
 
             return NoContent(); // Eliminado, codigo 204
         }
-
-    }
-
-    public class Persona
-    {
-        public DateTime Fecha { get; set; }
-        public int Edad { get; set; }
-        public string? Nombre { get; set; }
-        public int Id { get; set; }
-    }
+}
 }
 

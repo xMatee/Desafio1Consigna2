@@ -14,7 +14,7 @@ services:
     environment:
       POSTGRES_USER: pepe123
       POSTGRES_PASSWORD: admin
-      POSTGRES_DB: postgredb
+      POSTGRES_DB: postgresdb
 
     ports:
       - '5432:5432'
